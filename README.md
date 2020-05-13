@@ -6,4 +6,4 @@
 2. Заповнити квадратну матрицю заданого порядку N числами в порядку зростання, починаючи з заданого числа x.
 
 ## Результат
-<img="https://github.com/ppc-ntu-khpi/masivi-35-aleksandratkka/blob/master/masivi.png"/>
+<img src="https://github.com/ppc-ntu-khpi/masivi-35-aleksandratkka/blob/master/masivi.png"/>
